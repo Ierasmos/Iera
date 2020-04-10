@@ -11,7 +11,7 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.login('Njk3NDY3MzYzNTY1NzY0NjE4.Xo86kA.1mWDCxWLAFQNaiYgnRVNA_ujEuU');
+client.login('Njk3NDY3MzYzNTY1NzY0NjE4.XpAWgA.qdetO4qcCOhh08H_NYxO0b1nlwU');
 
 client.on('message', message=>{
 
